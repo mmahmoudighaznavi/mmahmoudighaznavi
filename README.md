@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👨‍🏫 I love teaching Data Science, finding joy in simplifying complex concepts and sparking curiosity in others.
 - 📚 An avid learner, constantly seeking new knowledge and challenges in the field of data science and beyond.
 
-### ### 📫 How to Reach Me
+### 📫 How to Reach Me
 - Email: [mmahmoudighaznavi@sandiego.edu]
 - LinkedIn: [https://www.linkedin.com/in/mohammad-mahmoudighaznavi-21937b260/]
 
