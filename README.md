@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 📫 How to Reach Me
 - Email: [mmahmoudighaznavi@sandiego.edu]
 - LinkedIn: [https://www.linkedin.com/in/mohammad-mahmoudighaznavi-21937b260/]
-### ### Check out my Data Science Weblog
+### Check out my Data Science Weblog
 For new Data Science graduates looking to crack job interviews, check out my comprehensive guide here: [Graduate Success in Applied Data Science](https://onlinedegrees.sandiego.edu/graduate-success-in-applied-data-science/).
 
 
