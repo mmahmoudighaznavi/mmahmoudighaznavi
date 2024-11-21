@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-- 🎓 I'm a recent graduate in Data Science from the University of San Diego, boasting an impressive GPA of 3.94.
-- 🌟 Passionate about harnessing the power of data to drive decision-making and innovation.
-- 🔍 Currently on the lookout for job opportunities where I can apply my skills in data analysis, machine learning, and statistical modeling.
-- 👨‍🏫 I love teaching Data Science, finding joy in simplifying complex concepts and sparking curiosity in others.
-- 📚 An avid learner, constantly seeking new knowledge and challenges in the field of data science and beyond.
+- 🎓 Education: Master’s degree in Data Science from the University of San Diego with an outstanding GPA of 3.94.
+- 🌟 Passion: Dedicated to leveraging the power of data to drive insightful decision-making and foster innovation.
+- 🔍 Professional Role: Currently serving as a Data Scientist at the General Services Administration, applying expertise in data analysis, machine learning, and statistical modeling to solve real-world problems.
+- 👨‍🏫 Teaching: Assistant Professor at National University, sharing knowledge and teaching Data Science courses.
+- 📚 Continuous Learner: Always exploring new knowledge and challenges in the ever-evolving field of data science and beyond.
 
 ### 📫 How to Reach Me
 - Email: [mmahmoudighaznavi@sandiego.edu]
